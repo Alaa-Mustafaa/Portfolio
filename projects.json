@@ -63,14 +63,6 @@
         "liveDemo": "https://github.com/Alaa-Mostafaa/Game_app_OOP_JS.git",
         "sourceCode": "https://alaa-mostafaa.github.io/Game_app_OOP_JS/",
         "image": "game.png"
-      }, 
-      {
-        "name": "Reciepe App using JS",
-        "description": "",
-        "technologies": ["HTML", "CSS", "Bootstrap","jQuery"],
-        "liveDemo": "https://alaa-mostafaa.github.io/JQuery_page/",
-        "sourceCode": "https://github.com/Alaa-Mostafaa/JQuery_page.git",
-        "image": "yummy.png"
       }
       ,
     
@@ -178,3 +170,4 @@
     
   ]
   
+
