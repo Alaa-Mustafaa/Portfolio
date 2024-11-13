@@ -1,7 +1,7 @@
 
 async function get(){
     let project = await fetch(
-        "../../projects.json "
+        "projects.json "
       );
       let data = await project.json();
      console.log(data)
