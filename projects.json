@@ -1,0 +1,180 @@
+[
+    {
+      "name": "Graduation project using Laravel",
+      "description":"It is an archaeological website about the religious complex located in Egypt. This site is the first site about this place translated into seven languages and has many features. It is a large site consisting of two small sites: the first is a site that contains all the information about the places in the complex and this information is reliable from books. There is also a system for booking trips to the place so that the visitor can book his trip easily and choose any of the two programs available for the trip according to his capabilities and choose the number of people and the price is calculated automatically for the visitor. There are also 3D models of some of the museum's holdings that were made using Agisoft. There is a map dedicated only to the place from Google that contains the complex and the places inside it only. There are exciting games for children to encourage them to learn about the country's antiquities. There is a messaging system between the visitor where the visitor can send any question to the admin to respond to any problem he faces or the visitor can use the chat bot to quickly respond to questions about the place. The other website is a small store that sells products related to religions such as the Holy Quran, with a basket, wish list and online payment system. There is also a dashboard for the admin through which he can add, modify or delete anything on the entire website. The admin can respond to visitors or block them to prevent them from sending any other messages and view any booked flights or orders requested by visitors.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap","Laravel","PHP","MySQL","Agisoft"],
+      "liveDemo": "",
+      "sourceCode": "https://github.com/Alaa-Mostafaa/Graduation_project.git",
+      "image": "graduation.jpg"
+    },
+    {
+      "name": "Hayah laboratories app using PHP",
+      "description": "It is a real application for the Hayat Company website, which is a hair and skin care company. The site displays all products according to categories and displays each product separately. It contains login and logout It contains a shopping cart and a wish list for users",
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap","PHP","MySQL"],
+      "liveDemo": "",
+      "sourceCode": "https://github.com/Alaa-Mostafaa/hayah-Ecommerce.git",
+      "image": "hayah.png"
+    },
+    {
+      "name":"E-commerce App using PHP",
+      "description": "It is a website for selling products and translated into two languages, Arabic and English, made with PHP Pure.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap","PHP","MySQL"],
+      "liveDemo": "",
+      "sourceCode": "https://github.com/Alaa-Mostafaa/E-commerce_php.git",
+      "image": "ecommercephp.png"
+    },
+    {
+      "name": "Exclusive App using Angular",
+      "description": "It is an e-commerce application built using Angular language.More details in ReadMe file on Github.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap","Angular","API Integration"],
+      "liveDemo": "https://exclusive-ecommerce-angular.vercel.app/home",
+      "sourceCode": "https://github.com/Alaa-Mostafaa/Exclusive_ecommerce-angular.git",
+      "image": "exclusive.png"
+    },
+    {
+        "name": "SkyCast App using Angular",
+        "description": "A weather forecast app with real-time data and a 5-day forecast feature.The user's location is known through the geo location and all weather conditions for this place are displayed automatically.This information includes: Displaying the current day's temperatures and weather conditions from cloud percentage, wind direction, wind speed and wind angle.Displaying temperatures for every hour of the day (24 hours).The user can search for any city he wants to see the weather for and all the previous information will appear.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap","Angular","API Integration"],
+        "liveDemo": "https://skycast-app-angular.vercel.app/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/weather_app_angular.git",
+        "image": "skycast.png"
+    },
+
+      {
+        "name": "Filmora App using Angular",
+        "description": "It is a movie application that uses Angular. It has the feature of watching movies or series according to each category or viewing the details of each movie or series alone. There is also the feature of adding to the watch list or favorites list or deleting from it and an authentication system with errors for the user to see. There is also the ability to search for any movie he wants. Moviedb API was used to create this application.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap","Angular","API Integration"],
+        "liveDemo": "https://filmora-movie-app.vercel.app/home",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/Movie_app.git",
+        "image": "filmora.png"
+      },
+      {
+        "name": "Angular App",
+        "description": "Simple application made with Angular.",
+        "technologies": ["HTML", "CSS", "Bootstrap","Angular"],
+        "liveDemo": "https://assignment-lemon-nine.vercel.app/home",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/assignment.git",
+        "image": "angular.png"
+      },
+      {
+        "name": "Game App using JS OOP",
+        "description": "It is an application for displaying games according to each category and watching each game separately.",
+        "technologies": ["HTML", "CSS", "Bootstrap","JavaScript","API Integration","OOP"],
+        "liveDemo": "https://github.com/Alaa-Mostafaa/Game_app_OOP_JS.git",
+        "sourceCode": "https://alaa-mostafaa.github.io/Game_app_OOP_JS/",
+        "image": "game.png"
+      }, 
+      {
+        "name": "Reciepe App using JS",
+        "description": "",
+        "technologies": ["HTML", "CSS", "Bootstrap","jQuery"],
+        "liveDemo": "https://alaa-mostafaa.github.io/JQuery_page/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/JQuery_page.git",
+        "image": "yummy.png"
+      }
+      ,
+    
+
+      {
+        "name": "Shopping cart using JS",
+        "description": "This application features a home page where all products are displayed, each showing an image, name, description, and price, along with an Add to Cart button for easy purchasing. Each product has a dedicated details page, accessible by clicking on the product image, and if a user tries to manually search for a non-existent product, an error message appears. A shopping cart allows users to view selected products, updates automatically with additions or deletions, and shows the total cost. If the cart is emptied, a message indicates it is empty, with a link back to the home page for further browsing.An authentication system enables users to register, log in, and log out. Registration validates fields, alerting the user if any are empty or if the email is already in use. Upon login, the user sees a welcome message briefly before being redirected to the home page, and they must be logged in to use the shopping cart. The navigation bar adapts based on user status, displaying Sign Up and Login options for guests, and a Logout option for signed-in users.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "liveDemo": "https://alaa-mostafaa.github.io/shopping_cart_Js/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/shopping_cart_Js.git",
+        "image": "cart.png"
+      },
+
+      {
+        "name": "Todo List App using JS",
+        "description": "The task list application includes an authentication system and task management features. The authentication system allows users to register, log in, and log out, ensuring that only logged-in users can add, modify, or delete tasks. Task management includes full CRUD (Create, Read, Update, Delete) operations: users can create new tasks, view all tasks associated with their account, update existing tasks, and delete tasks. Completed tasks are visually marked by a line-through effect. A search function allows users to search through their tasks. The navigation bar adapts based on user status, displaying Sign Up and Login for guests, and a Logout option for logged-in users.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "liveDemo": "https://alaa-mostafaa.github.io/todo_list_js/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/todo_list_js.git",
+        "image": "todo.png"
+      },
+      {
+        "name": "Image Slider using JS",
+        "description": "An image slider with the following features: buttons for navigating between images, both forward and backward. The images automatically transition every 3-5 seconds to provide a dynamic experience. When the user hovers over the slider, the automatic transition pauses, giving them control over the navigation.Additionally, I’ve implemented several enhancements to improve the user experience: smooth transition effects are included when switching between images, making the slider visually appealing. Pagination indicators, in the form of dots, are displayed below the slider to show the current image, and these dots can also be used for easy navigation. Furthermore, I’ve added swipe functionality, enabling users on touch screens to swipe between images for a more interactive experience.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "liveDemo": "https://alaa-mostafaa.github.io/image_Slider/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/image_Slider.git",
+        "image": "slider.png"
+      },
+      
+      {
+        "name": "Login System using JS",
+        "description": "It is an application to create an authentication system.",
+        "technologies": ["HTML", "CSS", "Bootstrap","JavaScript"],
+        "liveDemo": "https://alaa-mostafaa.github.io/Loginsystem_JS/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/Loginsystem_JS.git",
+        "image": "login.png"
+      },
+      {
+        "name": "CRUD system using JS",
+        "description": "It is a CRUD system creation application, which creates, reads, updates and deletes some products.",
+        "technologies": ["HTML", "CSS", "Bootstrap","JavaScript"],
+        "liveDemo": "https://alaa-mostafaa.github.io/CRUD_js/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/CRUD_js.git",
+        "image": "crud.png"
+      },
+      {
+        "name": "Quote generator using JS",
+        "description": "It is a quote generator application.",
+        "technologies": ["HTML", "CSS","JavaScript"],
+        "liveDemo": "https://alaa-mostafaa.github.io/Quote_generation_JS/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/Quote_generation_JS.git",
+        "image": "quote.png"
+      },
+      
+      {
+        "name": "Landing page (using jQuery)",
+        "description": "It's a simple landing page.",
+        "technologies": ["HTML", "CSS", "Bootstrap","jQuery"],
+        "liveDemo": "https://alaa-mostafaa.github.io/JQuery_page/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/JQuery_page.git",
+        "image": "jquery.png"
+      } ,
+      {
+        "name": "Landing page of interior design",
+        "description": "It's a simple landing page.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "liveDemo": "https://alaa-mostafaa.github.io/interior_design_landing_page/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/interior_design_landing_page.git",
+        "image": "interior.png"
+      },
+      {
+        "name": "Landing page of blog",
+        "description": "It's a simple landing page.",
+        "technologies": ["HTML", "CSS","Bootstrap"],
+        "liveDemo": "https://alaa-mostafaa.github.io/internship_Advanced_Blog/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/internship_Advanced_Blog.git",
+        "image": "blog.png"
+      },
+    
+      {
+        "name": "Landing page of Daniels",
+        "description": "It's a simple landing page.",
+        "technologies": ["HTML", "CSS", "Bootstrap"],
+        "liveDemo": "https://alaa-mostafaa.github.io/Daniels_homePage/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/Daniels_homePage.git",
+        "image": "daniels.png"
+      },
+      {
+        "name": "Landing page of Devfolio",
+        "description": "It's a simple landing page.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "liveDemo": "https://alaa-mostafaa.github.io/Devolio_Website/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/Devolio_Website.git",
+        "image": "devfolio.png"
+      },
+      {
+        "name": "Landing page of Solar Panel",
+        "description": "It's a simple landing page.",
+        "technologies": ["HTML", "CSS"],
+        "liveDemo": "https://alaa-mostafaa.github.io/internship_task1/",
+        "sourceCode": "https://github.com/Alaa-Mostafaa/internship_task1.git",
+        "image": "solar.png"
+      }
+    
+  ]
+  

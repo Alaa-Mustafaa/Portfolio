@@ -1,0 +1,25 @@
+/* Commo Styles */
+
+body{
+    background-color: #000000;
+}
+/* First Section  */
+#first_section{
+    background-image: url('../images/background.png');
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+
+}
+
+.navbar-brand,.above-headline,#contact i{
+    color:rgb(224, 252, 79)
+}
+
+.btn-yellow{
+    background-color: rgb(224, 252, 79);
+}
+
+.btn-yellow:hover{
+    background-color: rgb(167, 190, 56);
+}
