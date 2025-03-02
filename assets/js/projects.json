@@ -85,6 +85,14 @@
       "image": "todo.png"
     },
     {
+      "name": "Age calculator using JS",
+      "description": "It is an application to know a person's age in years, months and days. It also provides some advice and steps that a person must follow in order to enjoy good health, depending on the age and gender of the person.",
+      "technologies": ["HTML", "CSS", "JavaScript","Bootstrap" , "API Integration"],
+      "liveDemo": "https://alaa-mustafaa.github.io/Age-Calculator/",
+      "sourceCode": "https://github.com/Alaa-Mustafaa/Age-Calculator.git",
+      "image": "age-calculator.png"
+    },
+    {
       "name": "Image Slider using JS",
       "description": "An image slider with the following features: buttons for navigating between images, both forward and backward. The images automatically transition every 3-5 seconds to provide a dynamic experience. When the user hovers over the slider, the automatic transition pauses, giving them control over the navigation.Additionally, I’ve implemented several enhancements to improve the user experience: smooth transition effects are included when switching between images, making the slider visually appealing. Pagination indicators, in the form of dots, are displayed below the slider to show the current image, and these dots can also be used for easy navigation. Furthermore, I’ve added swipe functionality, enabling users on touch screens to swipe between images for a more interactive experience.",
       "technologies": ["HTML", "CSS", "JavaScript"],
@@ -133,6 +141,14 @@
       "liveDemo": "https://alaa-mustafaa.github.io/Landing-page-of-interior-design/",
       "sourceCode": "https://github.com/Alaa-Mustafaa/Landing-page-of-interior-design.git",
       "image": "interior.png"
+    },
+    {
+      "name": "Future Tech landing page",
+      "description": "It's a simple landing page.",
+      "technologies": ["HTML", "CSS", "Bootstrap"],
+      "liveDemo": "https://alaa-mustafaa.github.io/Future_Tech_AI_Blog/",
+      "sourceCode": "https://github.com/Alaa-Mustafaa/Future_Tech_AI_Blog.git",
+      "image": "futureTech.png"
     },
     {
       "name": "Landing page of blog",
